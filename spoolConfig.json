@@ -1,0 +1,396 @@
+{
+  "brands": [
+    {
+      "name": "拓竹",
+      "spoolWeight": 239,
+      "description": "低温盘239（209+31）、高温盘252（222+31）、",
+      "logo": "https://spool-r2.bambu.cc/bambu.webp"
+    },
+    {
+      "name": "三绿",
+      "spoolWeight": 210,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/sunlu.webp"
+    },
+    {
+      "name": "inslogic",
+      "spoolWeight": 210,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "爱丽兹",
+      "spoolWeight": 205,
+      "description": "新料盘205、旧料盘160",
+      "logo": "https://spool-r2.bambu.cc/aliz.webp"
+    },
+    {
+      "name": "Kexcelled",
+      "spoolWeight": 205,
+      "description": "纸料盘205、RFS可拆线（升级版）料盘220、黑色料盘240、透明料盘270、RFS可拆卸料盘270",
+      "logo": "https://spool-r2.bambu.cc/kexcelled.webp"
+    },
+    {
+      "name": "创想三维",
+      "spoolWeight": 190,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/creality.webp"
+    },
+    {
+      "name": "Polymaker",
+      "spoolWeight": 150,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/polymaker.webp"
+    },
+    {
+      "name": "eSun",
+      "spoolWeight": 255,
+      "description": "塑料盘255、纸盘147",
+      "logo": "https://spool-r2.bambu.cc/esun.webp"
+    },
+    {
+      "name": "爱乐酷",
+      "spoolWeight": 112,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/elegoo.webp"
+    },
+    {
+      "name": "方途",
+      "spoolWeight": 153,
+      "description": "浅色盘153、深色盘170",
+      "logo": "https://spool-r2.bambu.cc/fangtu.webp"
+    },
+    {
+      "name": "溢之彩",
+      "spoolWeight": 137,
+      "description": "黑盘137、透明盘160",
+      "logo": "https://spool-r2.bambu.cc/yizhicai.webp"
+    },
+    {
+      "name": "魔创",
+      "spoolWeight": 220,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/mochuang.webp"
+    },
+    {
+      "name": "兰博",
+      "spoolWeight": 160,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/lanbo.webp"
+    },
+    {
+      "name": "R3D",
+      "spoolWeight": 200,
+      "description": "镂空盘100、纸盘150、黑盘200、PLA青春版129",
+      "logo": "https://spool-r2.bambu.cc/r3d.webp"
+    },
+    {
+      "name": "天瑞",
+      "spoolWeight": 185,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/tinmorry.webp"
+    },
+    {
+      "name": "彩多屋",
+      "spoolWeight": 150,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/caiduowu.webp"
+    },
+    {
+      "name": "JAYO",
+      "spoolWeight": 125,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/jayo.webp"
+    },
+    {
+      "name": "晶至",
+      "spoolWeight": 122,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "叁生万物",
+      "spoolWeight": 200,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/sanshengwanwu.webp"
+    },
+    {
+      "name": "超维彩线",
+      "spoolWeight": 150,
+      "description": "纸料盘150g、黑色盘150g、黑色8圆孔盘200g",
+      "logo": "https://spool-r2.bambu.cc/chaowei.webp"
+    },
+    {
+      "name": "纵维立方",
+      "spoolWeight": 226,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/anycubic.webp"
+    },
+    {
+      "name": "大简",
+      "spoolWeight": 200,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/dajian.webp"
+    },
+    {
+      "name": "余兄弟",
+      "spoolWeight": 120,
+      "description": "黑盘120、透明盘140",
+      "logo": ""
+    },
+    {
+      "name": "维籁",
+      "spoolWeight": 160,
+      "description": "",
+      "logo": "https://spool-r2.bambu.cc/weilai.webp"
+    },
+    {
+      "name": "瓦力",
+      "spoolWeight": 163,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "儒耀",
+      "spoolWeight": 165,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "烁轩",
+      "spoolWeight": 160,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "XYD小明",
+      "spoolWeight": 190,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "三慈",
+      "spoolWeight": 123,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "简迹",
+      "spoolWeight": 200,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "华博智材",
+      "spoolWeight": 158,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "元素良材",
+      "spoolWeight": 105,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "三维造物",
+      "spoolWeight": 100,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "彩格",
+      "spoolWeight": 100,
+      "description": "1kg180、0.5kg110",
+      "logo": ""
+    },
+    {
+      "name": "蓝极光",
+      "spoolWeight": 164,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "杭州卓新",
+      "spoolWeight": 168,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "创星元",
+      "spoolWeight": 151,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "犀博",
+      "spoolWeight": 190,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "Fusrock",
+      "spoolWeight": 200,
+      "description": "",
+      "logo": ""
+    },
+    {
+      "name": "派特尔",
+      "spoolWeight": 136,
+      "description": "黑胶盘136、透明盘140",
+      "logo": ""
+    }
+  ],
+  "materialTypes": [
+    "PLA",
+    "PLA+",
+    "PLA+2.0",
+    "PETG",
+    "PETG-CF",
+    "PETG-GF",
+    "PVA",
+    "TPU",
+    "ABS",
+    "ABS-GF",
+    "ASA",
+    "PA6-CF"
+  ],
+  "appearances": [
+    {
+      "id": 1,
+      "label": "普通",
+      "color": "default",
+      "style": {}
+    },
+    {
+      "id": 2,
+      "label": "丝绸",
+      "color": "purple",
+      "style": {
+        "background": "linear-gradient(45deg, #722ed1, #d3adf7)",
+        "color": "white",
+        "fontWeight": "bold"
+      }
+    },
+    {
+      "id": 3,
+      "label": "金属",
+      "color": "gold",
+      "style": {
+        "background": "linear-gradient(45deg, #faad14, #ffd666)",
+        "color": "#8c4400",
+        "fontWeight": "bold",
+        "textShadow": "0 1px 2px rgba(0,0,0,0.1)"
+      }
+    },
+    {
+      "id": 4,
+      "label": "哑光",
+      "color": "volcano",
+      "style": {
+        "background": "#595959",
+        "color": "white",
+        "opacity": 0.8
+      }
+    },
+    {
+      "id": 5,
+      "label": "透明",
+      "color": "cyan",
+      "style": {
+        "background": "rgba(19, 194, 194, 0.1)",
+        "border": "1px solid #13c2c2",
+        "color": "#13c2c2",
+        "backdropFilter": "blur(2px)"
+      }
+    },
+    {
+      "id": 6,
+      "label": "荧光",
+      "color": "lime",
+      "style": {
+        "background": "linear-gradient(45deg, #a0d911, #f6feed)",
+        "color": "#389e0d",
+        "fontWeight": "bold",
+        "animation": "glow 2s ease-in-out infinite alternate"
+      }
+    },
+    {
+      "id": 7,
+      "label": "变色",
+      "color": "magenta",
+      "style": {
+        "background": "linear-gradient(90deg, #eb2f96, #722ed1, #1890ff, #52c41a)",
+        "backgroundSize": "300% 100%",
+        "color": "white",
+        "fontWeight": "bold",
+        "animation": "rainbow 3s ease infinite"
+      }
+    },
+    {
+      "id": 8,
+      "label": "大理石",
+      "color": "geekblue",
+      "style": {
+        "background": "repeating-linear-gradient(45deg, #f5f5f5, #f5f5f5 10px, #d9d9d9 10px, #d9d9d9 20px)",
+        "color": "#262626",
+        "fontWeight": "bold",
+        "border": "1px solid #d9d9d9",
+        "boxShadow": "inset 0 0 5px rgba(0,0,0,0.1)"
+      }
+    },
+    {
+      "id": 9,
+      "label": "木质",
+      "color": "brown",
+      "style": {
+        "background": "repeating-linear-gradient(45deg, #deb887, #deb887 10px, #a0522d 10px, #a0522d 20px)",
+        "color": "#4b2e2e",
+        "fontWeight": "bold",
+        "border": "1px solid #8b4513",
+        "boxShadow": "inset 0 0 5px rgba(0,0,0,0.2)"
+      }
+    },
+    {
+      "id": 10,
+      "label": "纤维",
+      "color": "carbon-black",
+  "style": {
+    "background": "linear-gradient(rgba(26, 26, 26, 0.15), rgba(26, 26, 26, 0.15)), repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.08) 0px, rgba(0, 0, 0, 0.08) 1px, transparent 1px, transparent 4px), repeating-linear-gradient(90deg, rgba(0, 0, 0, 0.08) 0px, rgba(0, 0, 0, 0.08) 1px, transparent 1px, transparent 4px)",
+    "border": "1px solid #1a1a1a",
+    "color": "#1a1a1a",
+    "backdropFilter": "blur(3px)"
+      }
+    },
+   {
+  "id": 11,
+  "label": "闪光",
+  "color": "sparkle",
+  "style": {
+    "background": "radial-gradient(circle at 30% 30%, rgba(255,255,255,0.95) 0%, transparent 20%), radial-gradient(circle at 70% 70%, rgba(255,255,255,0.85) 0%, transparent 15%), linear-gradient(135deg, #ffffff 0%, #f0f9ff 50%, #e6f7ff 100%)",
+    "backgroundSize": "100% 100%, 100% 100%, 100% 100%",
+    "border": "1px solid rgba(255, 255, 255, 0.9)",
+    "color": "#0050b3",
+    "fontWeight": "bold",
+    "textShadow": "0 0 8px rgba(255, 255, 255, 1), 0 0 15px rgba(186, 230, 253, 0.9)",
+    "boxShadow": "0 0 15px rgba(255, 255, 255, 0.8), 0 0 25px rgba(186, 230, 253, 0.6), inset 0 1px 0 rgba(255, 255, 255, 1)",
+    "backdropFilter": "blur(2px) brightness(1.15)"
+  }
+  },
+{
+  "id": 12,
+  "label": "银河",
+  "color": "galaxy-deepblue",
+  "style": {
+    "background": "repeating-radial-gradient(circle at 15px 15px, rgba(255,255,255,0.9) 0px, rgba(255,255,255,0.9) 1.2px, transparent 1.2px, transparent 25px), repeating-radial-gradient(circle at 8px 8px, rgba(255,255,255,0.7) 0px, rgba(255,255,255,0.7) 0.6px, transparent 0.6px, transparent 12px), radial-gradient(circle at 20% 30%, rgba(150, 120, 255, 0.3) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(200, 150, 255, 0.25) 0%, transparent 45%), radial-gradient(circle at 50% 50%, rgba(120, 180, 255, 0.2) 0%, transparent 55%), linear-gradient(135deg, #0a0a1a 0%, #121242 50%, #0f173a 100%)",
+    "backgroundSize": "100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%",
+    "border": "1px solid rgba(180, 190, 255, 0.6)",
+    "color": "#f0f5ff",
+    "fontWeight": "bold",
+    "textShadow": "0 0 6px rgba(255, 255, 255, 0.9), 0 0 12px rgba(180, 190, 255, 0.8), 0 1px 2px rgba(0, 0, 0, 0.3)",
+    "boxShadow": "0 0 12px rgba(120, 130, 255, 0.5), 0 0 20px rgba(150, 120, 255, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.3), inset 0 -1px 0 rgba(0, 0, 0, 0.4)",
+    "backdropFilter": "blur(3px) brightness(1.1)"
+  }
+}
+  ]
+}
