@@ -264,7 +264,7 @@
     },
     {
        "id": 2,
-  "label": "丝绸-冷紫",
+  "label": "丝绸",
   "color": "purple_cold",
   "style": {
     "background": "linear-gradient(135deg, #431899 0%, #5f27cd 25%, #9d75e8 50%, #c4b0f0 75%, #5f27cd 100%), linear-gradient(45deg, rgba(255,255,255,0.25) 0%, transparent 50%, rgba(255,255,255,0.15) 100%)",
