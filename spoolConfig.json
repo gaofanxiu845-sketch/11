@@ -367,14 +367,14 @@
   "label": "闪光",
   "color": "sparkle",
   "style": {
-    "background": "radial-gradient(circle at 30% 30%, rgba(255,255,255,0.95) 0%, transparent 20%), radial-gradient(circle at 70% 70%, rgba(255,255,255,0.85) 0%, transparent 15%), linear-gradient(135deg, #ffffff 0%, #f0f9ff 50%, #e6f7ff 100%)",
+    "background": "radial-gradient(circle at 30% 30%, rgba(255, 240, 180, 0.95) 0%, transparent 25%), radial-gradient(circle at 70% 70%, rgba(180, 230, 255, 0.9) 0%, transparent 20%), linear-gradient(135deg, #fff9e6 0%, #f0f9ff 50%, #e6f7ff 100%)",
     "backgroundSize": "100% 100%, 100% 100%, 100% 100%",
-    "border": "1px solid rgba(255, 255, 255, 0.9)",
-    "color": "#0050b3",
+    "border": "1px solid rgba(255, 215, 0, 0.8)",
+    "color": "#1a365d",
     "fontWeight": "bold",
-    "textShadow": "0 0 8px rgba(255, 255, 255, 1), 0 0 15px rgba(186, 230, 253, 0.9)",
-    "boxShadow": "0 0 15px rgba(255, 255, 255, 0.8), 0 0 25px rgba(186, 230, 253, 0.6), inset 0 1px 0 rgba(255, 255, 255, 1)",
-    "backdropFilter": "blur(2px) brightness(1.15)"
+    "textShadow": "0 0 8px rgba(255, 215, 0, 1), 0 0 15px rgba(255, 240, 180, 0.9), 0 0 25px rgba(186, 230, 253, 0.8)",
+    "boxShadow": "0 0 15px rgba(255, 215, 0, 0.8), 0 0 30px rgba(255, 240, 180, 0.6), 0 0 45px rgba(186, 230, 253, 0.5), inset 0 1px 0 rgba(255, 255, 255, 1)",
+    "backdropFilter": "blur(2px) brightness(1.25)"
   }
   },
 {
