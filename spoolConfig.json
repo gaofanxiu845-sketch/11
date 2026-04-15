@@ -12,7 +12,7 @@
       "description": "",
       "logo": "https://spool-r2.bambu.cc/sunlu.webp"
     },
-    {
+{
       "name": "inslogic",
       "spoolWeight": 210,
       "description": "",
@@ -92,7 +92,7 @@
     },
     {
       "name": "天瑞",
-      "spoolWeight": 170,
+      "spoolWeight": 185,
       "description": "",
       "logo": "https://spool-r2.bambu.cc/tinmorry.webp"
     },
