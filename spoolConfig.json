@@ -259,9 +259,11 @@
     "ABS",
     "ABS-GF",
     "ASA",
-    "PA6-CF"
-    "support for pla/petg"
-    "PA6-GF"
+    "PA6-CF",
+    "support for pla/petg",
+    "PA6-GF",
+    "ASA-Cf",
+    "ASA-Gf"
   ],
   "appearances": [
     {
