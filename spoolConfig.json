@@ -270,7 +270,10 @@
     "PA6-GF",
     "ASA-Cf",
     "ASA-Gf",
-    "PAHT-Gf"
+    "PAHT-Gf",
+    "tpu-Cf",
+    "tpu-Gf",
+    "PVA"
   ],
   "appearances": [
     {
