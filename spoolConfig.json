@@ -168,6 +168,12 @@
       "description": "",
       "logo": ""
     },
+     {
+      "name": "小北",
+      "spoolWeight": 165,
+      "description": "",
+      "logo": ""
+    },
     {
       "name": "烁轩",
       "spoolWeight": 160,
@@ -273,6 +279,8 @@
     "PAHT-Gf",
     "tpu-Cf",
     "tpu-Gf",
+    "PET-Cf",
+    "PET-Gf",
     "PVA"
   ],
   "appearances": [
