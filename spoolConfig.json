@@ -1,4 +1,4 @@
-{
+012867{
   "brands": [
     {
       "name": "拓竹",
@@ -253,6 +253,12 @@
       "logo": ""
     },
     {
+      "name": "独角兽",
+      "spoolWeight": 115,
+      "description": "",
+      "logo": ""
+    },
+    {
       "name": "派特尔",
       "spoolWeight": 136,
       "description": "黑胶盘136、透明盘140",
@@ -277,6 +283,7 @@
     "ASA-Cf",
     "ASA-Gf",
     "PAHT-Gf",
+    "PAHT-Cf",
     "tpu-Cf",
     "tpu-Gf",
     "PET-Cf",
